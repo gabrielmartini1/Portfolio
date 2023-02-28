@@ -5,26 +5,24 @@
 </p>
 
 # Gabriel Martini
-<sub>*Lead Data Scientist* at ...</sub>
+<sub>*Data Scientist*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Minhas credenciais incluem um MBA em Gerenciamento Ambiental pela Universidade de São Paulo (USP) e uma Graduação em Ciências Biológicas - Bacharelado e Licenciatura pela Pontifícia Universidade Católica de Campinas (PUCCAMP).
 
 **Background in:** Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gabrielmartini1)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.medium.com/@gabrielmartini)
 
 
 ## Projetos:
 Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 
 * **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** http://bit.ly/3EFdlbh
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Como Implementar Regressão Linear com Python:**
+* **Data Science: Investigando o naufrágio do Titanic:** 
+* **Como Tratar Dados Ausentes com Pandas:** 
+* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
+* **Como criar uma Wordcloud em Python:**
+* **Como lidar com dados desbalanceados:** 
