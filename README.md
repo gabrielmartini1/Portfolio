@@ -21,7 +21,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 
-* **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** [Inside Airbnb](http://insideairbnb.com/get-the-data.html) https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** http://bit.ly/3EFdlbh
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
