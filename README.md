@@ -9,9 +9,7 @@
 
 Minhas credenciais incluem um MBA em Gerenciamento Ambiental pela Universidade de São Paulo (USP) e uma Graduação em Ciências Biológicas - Bacharelado e Licenciatura pela Pontifícia Universidade Católica de Campinas (PUCCAMP).
 
-Tenho uma vasta experiência de trabalho no mercado financeiro, pesquisa científica e tecnologia da informação.
-
-
+Tenho uma vasta experiência de trabalho no mercado financeiro, pesquisa científica e tecnologia da informação, combinando habilidades analíticas, capacidade de liderança e resolução de problemas.
 
 **Background in:** Python.
 
@@ -24,9 +22,3 @@ Tenho uma vasta experiência de trabalho no mercado financeiro, pesquisa cientí
 Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 
 * **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** http://bit.ly/3EFdlbh
-* **Como Implementar Regressão Linear com Python:**
-* **Data Science: Investigando o naufrágio do Titanic:** 
-* **Como Tratar Dados Ausentes com Pandas:** 
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
-* **Como criar uma Wordcloud em Python:**
-* **Como lidar com dados desbalanceados:** 
