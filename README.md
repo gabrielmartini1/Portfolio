@@ -9,6 +9,10 @@
 
 Minhas credenciais incluem um MBA em Gerenciamento Ambiental pela Universidade de São Paulo (USP) e uma Graduação em Ciências Biológicas - Bacharelado e Licenciatura pela Pontifícia Universidade Católica de Campinas (PUCCAMP).
 
+Tenho uma vasta experiência de trabalho no mercado financeiro, pesquisa científica e tecnologia da informação.
+
+
+
 **Background in:** Python.
 
 **Links:**
