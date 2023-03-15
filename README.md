@@ -15,7 +15,7 @@ Tenho uma vasta experiência de trabalho no mercado financeiro, pesquisa cientí
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gabrielmartini1)
-* [Medium](https://medium.com/@gbl.martini)
+* [Medium](https://medium.com/@gabrielmartini1)
 
 
 ## Projetos:
