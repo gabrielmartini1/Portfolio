@@ -21,5 +21,5 @@ Tenho uma vasta experiência de trabalho no mercado financeiro, pesquisa cientí
 ## Projetos:
 Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 
-* **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** http://bit.ly/3EFdlbh
-* **Panorama da Covid-19: Mundo e Brasil** encurtador.com.br/flU79
+* **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** [Clique aqui]http://bit.ly/3EFdlbh
+* **Panorama da Covid-19: Mundo e Brasil** [Clique aqui]https://github.com/gabrielmartini1/Covid-19_Data_Analysis
