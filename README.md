@@ -22,3 +22,4 @@ Tenho uma vasta experiência de trabalho no mercado financeiro, pesquisa cientí
 Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 
 * **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** http://bit.ly/3EFdlbh
+* **Panorama da Covid-19: Mundo e Brasil** encurtador.com.br/flU79
