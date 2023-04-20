@@ -24,3 +24,4 @@ Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 * **Analisando os Dados do Airbnb - Los Angeles, Califórnia >>>** https://8knl.short.gy/VVodoE
 * **Panorama da Covid-19: Mundo e Brasil >>>** https://8knl.short.gy/HJNQUb
 * **Detecção de Fraude em Cartões de Crédito >>>** https://8knl.short.gy/bON5EM
+* **Customer Churn Prediction >>>** https://8knl.short.gy/5FSFim
