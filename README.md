@@ -25,4 +25,4 @@ Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 * **Panorama da Covid-19: Mundo e Brasil >>>** https://8knl.short.gy/HJNQUb
 * **Detecção de Fraude em Cartões de Crédito >>>** https://8knl.short.gy/bON5EM
 * **Churn Prediction para uma empresa de Telecomunicações >>>** https://8knl.short.gy/5FSFim
-* **Previsão de Custos de Seguro Saúde com AutoML >>>** 
+* **Previsão de Custos de Seguro Saúde com AutoML >>>** https://8knl.short.gy/VocsPv
