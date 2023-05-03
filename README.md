@@ -26,3 +26,4 @@ Aqui você vai encontrar os meus principais projetos publicados em Data Science:
 * **Detecção de Fraude em Cartões de Crédito >>>** https://8knl.short.gy/bON5EM
 * **Churn Prediction para uma empresa de Telecomunicações >>>** https://8knl.short.gy/5FSFim
 * **Previsão de Custos de Seguro Saúde com AutoML >>>** https://8knl.short.gy/VocsPv
+* **Saúde fetal: prevenção da mortalidade infantil e materna >>>** https://8knl.short.gy/JtRjER
